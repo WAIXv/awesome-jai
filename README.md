@@ -65,11 +65,11 @@ Also, check the [Jai Community Library](https://github.com/Jai-Community/Jai-Com
 ## Tools
 
  * [Ctags](https://github.com/rluba/jai-ctags) - generate ctags for various editors
- * [jai-lsp](https://github.com/Pyromuffin/jai-lsp)
+ * [jai-lsp](https://github.com/Pyromuffin/jai-lsp) - Language server for Jai
  * [jai-mode](https://github.com/krig/jai-mode) - Jai Mode for emacs
  * [JaiTools for Sublime Text 3](https://github.com/RobinWragg/JaiTools)
  * [Kakoune - Jai language definition file](https://github.com/dgrisham/jai.kak)
- * [tree-sitter-jai](https://github.com/Pyromuffin/tree-sitter-jai)
+ * [tree-sitter-jai](https://github.com/Pyromuffin/tree-sitter-jai) - Tree-sitter grammar for Jai
  * [Vim syntax](https://github.com/rluba/jai.vim)
  * VS Code support:
    * Mim Hufford's [VS Code support](https://github.com/mimhufford/jai-language-support)
